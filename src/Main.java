@@ -15,8 +15,7 @@ public class Main {
     PhysicEngine physicEngine;
 
     public Main() throws Exception{
-        int maxTime = 100;
-        
+
         displayZoneFrame = new JFrame("Java Labs");
         displayZoneFrame.setSize(400,600);
         displayZoneFrame.setDefaultCloseOperation(EXIT_ON_CLOSE);
